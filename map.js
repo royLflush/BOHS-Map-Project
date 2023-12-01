@@ -1,4 +1,7 @@
-var mapX = 500;
-var mapY = 500;
-//test
-var playerX = 0;
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+}
