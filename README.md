@@ -1,2 +1,2 @@
-# BOHS-Map-Project
-Coding Club making a interactable map of the school
+# BOHS-RPG-Project
+Coding Club is now making a simple RPG game through javascript (p5.js)
